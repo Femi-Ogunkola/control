@@ -1,4 +1,4 @@
-class Function:
+class Signal:
 
     def __init__(self) -> None:
         pass
